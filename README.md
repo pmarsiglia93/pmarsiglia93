@@ -1,4 +1,4 @@
-### Olá! Eu sou o Paulo Francisco Marsiglia
+### Olá Pessoal! Eu sou o Paulo Francisco Marsiglia
 
 - 🔭 Hoje estou em busca de recolocação profissional na área de tecnologia. 
 - 🌱 Estudando Java na Generation Brasil
