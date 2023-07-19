@@ -1,7 +1,7 @@
 ### Olá Pessoal! Eu sou o Paulo Francisco Marsiglia
 
-- 🔭 Hoje estou em busca de recolocação profissional na área de tecnologia. 
-- 🌱 Estudando Java na Generation Brasil
+- 🔭 Desenvolvedor Front End Corebiz. 
+- 🌱 Conhecimentos em HTML, CSS, SAAS, Javascript, Typescript , React e Vtex.
 - 📫 Contate-me no e-mail: pmarsiglia93@gmail.com
 - 😄 Pronouns: ele/dele
 
