@@ -1,6 +1,6 @@
 ### Olá Pessoal! Eu sou o Paulo Francisco Marsiglia
 
-- 🔭 Desenvolvedor Front End Corebiz. 
+- 🔭 Desenvolvedor Front End. 
 - 🌱 Conhecimentos em HTML, CSS, SAAS, Javascript, Typescript , React e Vtex.
 - 📫 Contate-me no e-mail: pmarsiglia93@gmail.com
 - 😄 Pronouns: ele/dele
